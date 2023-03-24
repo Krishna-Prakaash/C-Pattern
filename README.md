@@ -70,7 +70,7 @@ public class Exercise33
 
 
 ## Output:
-![OUTPUT-01](![OP-1 (2)](https://user-images.githubusercontent.com/93427144/227485242-44b8e413-7ff1-447b-9eef-133157680bf6.png))
+![OP-1 (2)](https://user-images.githubusercontent.com/93427144/227485242-44b8e413-7ff1-447b-9eef-133157680bf6.png)
 # Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
 
